@@ -37,7 +37,7 @@ export default function App() {
       <X />
       <Y />
       <h1>Hello Global Counter State</h1>
-      <h2>click the numbers to incerent</h2>
+      <h2>click the numbers to increment</h2>
     </div>
   );
 }
